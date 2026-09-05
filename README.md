@@ -1,6 +1,6 @@
 # Spotify Popularity ML — EP1 Machine Learning 
 
-*Evaluación Parcial 1**: exploración y preprocesamiento de datos, primera etapa del proyecto semestral en el cual analizamos y modelamos la popularidad de canciones en Spotify.
+**Evaluación Parcial 1**: exploración y preprocesamiento de datos, primera etapa del proyecto semestral en el cual analizamos y modelamos la popularidad de canciones en Spotify.
 
 ## Integrantes
 
